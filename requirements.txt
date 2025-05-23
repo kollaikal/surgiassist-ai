@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+langchain
+langchain-cohere
+langchain-pinecone
+pinecone-client
+streamlit
