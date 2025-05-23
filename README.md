@@ -3,7 +3,6 @@
 SurgiAssist AI is a real-time medical assistant powered by **PubMed retrieval** and **Cerebras’ Qwen-3-32b model**.  
 It answers clinical questions using evidence-backed, fast, and empathetic AI responses.
 
----
 
 ## Features
 
@@ -14,7 +13,6 @@ It answers clinical questions using evidence-backed, fast, and empathetic AI res
 -  Displays all abstract sources used
 -  Friendly tone with graceful fallback for non-medical queries
 
----
 
 ## 🧰 Tech Stack
 
