@@ -71,6 +71,7 @@ streamlit run frontend.py
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/7804bfb8-7f50-46b0-9c4a-1ab885f11a8b" />
 
 ### Project Structure
+```
 SurgiAssistAI/
 ├── app/
 │   ├── backend.py
@@ -79,4 +80,4 @@ SurgiAssistAI/
 │   ├── .env.template
 ├── requirements.txt
 ├── README.md
-
+```
